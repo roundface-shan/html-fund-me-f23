@@ -74,7 +74,7 @@ async function getBalance() {
       console.log(error)
     }
   } else {
-    balanceButton.innerHTML = "Please install MetaMask"
+    balanceButton.innerHTML = "请安装小狐狸钱包"
   }
 }
 
